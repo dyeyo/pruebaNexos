@@ -22,6 +22,10 @@
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-md-12">
+                <div class="alert alert-success">
+                    Usuario: cajero@email.com y dyego@gmail.com
+                    Clave para los 2: 12345678
+                </div>
                 <div class="card">
                     <div class="card-header">Entrar</div>
 
