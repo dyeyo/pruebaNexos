@@ -26,6 +26,9 @@
                     Usuario: cajero@email.com y dyego@gmail.com
                     Clave para los 2: 12345678
                 </div>
+                <div class="alert alert-success">
+                    Correr Migraciones con --seed e instalar npm
+                </div>
                 <div class="card">
                     <div class="card-header">Entrar</div>
 
